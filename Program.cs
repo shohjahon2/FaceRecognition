@@ -11,7 +11,6 @@ namespace FaceRecognition
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        /// salomalar
         [STAThread]
         static void Main()
         {
