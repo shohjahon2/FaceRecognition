@@ -18,5 +18,12 @@ namespace FaceRecognition
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+
+        static void Salomar() 
+        {
+
+            Console.WriteLine("SAlomalr");
+        }
     }
 }
